@@ -1,13 +1,14 @@
-<img src="https://i.postimg.cc/hPF8tsJw/Screenshot-2025-01-09-163221.png"/>
+<img src="https://i.postimg.cc/CLHnjRHL/banner.jpg">
 
-## ✨About me
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.webp" width="3%"> About me
 <img src="https://i.giphy.com/jBOOXxSJfG8kqMxT11.webp" alt="image-ninja" align="right" width="20%">
 <ul>
-    <li>👨‍💻I am a Frontend Developer with a strong passion for web development.
+    <li>👨‍💻 I am a Frontend Developer with a strong passion for web development.
     </li>
     <li>🚀 Currently working on a 100 Projects Challenge to enhance my skills and gain  practical <br>experience  in  creating web applications.</li>
     <li>🏆 Achieved 1st place in Web Design Competitions during both 1st and 2nd years of college.</li>
     <li>🎨 Love crafting user-friendly interfaces and learning new tools/technologies to improve my  <br>development skills.</li>
+    <li> 🌐Visit my <a href="https://amankureshi.vercel.app/">Portfolio<a> for more details about me.</li>
 </ul>
 
 ## Socials Links
@@ -56,6 +57,4 @@
     <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"
         alt="Adobe Photoshop" />
 </div>
-
-</section>
-</div>
+    
