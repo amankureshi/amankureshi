@@ -1,19 +1,61 @@
-# Heyy I'm Aman Kureshi
-## 💫 About Me:
-I am a beginner in Frontend Development with a strong passion for creating <br> clean  and responsive websites. I am always open to  learn newtechnologies.<br>I always try to expand my tech stack and i am currently challenging myself <br> with the <i>100-project </i> challenge.<br>
+<img src="https://i.postimg.cc/hPF8tsJw/Screenshot-2025-01-09-163221.png"/>
+
+## ✨About me
+<img src="https://i.giphy.com/jBOOXxSJfG8kqMxT11.webp" alt="image-ninja" align="right" width="20%">
+<ul>
+    <li>👨‍💻I am a Frontend Developer with a strong passion for web development.
+    </li>
+    <li>🚀 Currently working on a 100 Projects Challenge to enhance my skills and gain  practical <br>experience  in  creating web applications.</li>
+    <li>🏆 Achieved 1st place in Web Design Competitions during both 1st and 2nd years of college.</li>
+    <li>🎨 Love crafting user-friendly interfaces and learning new tools/technologies to improve my  <br>development skills.</li>
+</ul>
+
+## Socials Links
+
+<a href="https://linkedin.com/in/aman-kureshi">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white"
+        alt="LinkedIn Badge" />
+</a>
+<a href="https://codepen.io/amankureshi786">
+    <img src="https://img.shields.io/badge/CodePen-black?style=for-the-badge&logo=codepen&logoColor=white"
+        alt="Codepen Badge" />
+</a>
+<a href="https://x.com/Kureshi_aman786">
+    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" alt="X Badge" />
+</a>
 
 
-## 🌐 Socials Links:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-kureshi) &nbsp; [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/amankureshi786)   &nbsp;[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Kureshi_aman786)
 
-# 💻 Tech Stack:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%238511FA.svg?style=for-the-badge&logo=redux&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)<br> ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![Css3](https://img.shields.io/badge/css3-%23000000.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) <br>  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)   ![Vercel](https://img.shields.io/badge/render-%23000000.svg?style=for-the-badge&logo=render&logoColor=white)  ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+## Technology Stack
+<div class="skill-logo">
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
+        alt="React" />
+    <img src="https://img.shields.io/badge/redux-%238511FA.svg?style=for-the-badge&logo=redux&logoColor=white"
+        alt="Redux" />
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"
+        alt="JavaScript" />
+    <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"
+        alt="jQuery" />
+    <br />
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
+        alt="HTML5" />
+    <img src="https://img.shields.io/badge/css3-%23000000.svg?style=for-the-badge&logo=css3&logoColor=white"
+        alt="CSS3" />
+    <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
+        alt="Bootstrap" />
+    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"
+        alt="TailwindCSS" />
+    <br />
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"
+        alt="GitHub" />
+    <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"
+        alt="Vercel" />
+    <img src="https://img.shields.io/badge/render-%23000000.svg?style=for-the-badge&logo=render&logoColor=white"
+        alt="Render" />
+    <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"
+        alt="Adobe Photoshop" />
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=amankureshi&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=amankureshi&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</section>
+</div>
