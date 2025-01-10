@@ -12,7 +12,7 @@
 </ul>
 <div>&nbsp;</div><div>&nbsp;</div>
         
-## Socials Links
+##  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="32" height="32">Socials Links
 
 <a href="https://linkedin.com/in/aman-kureshi">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white"
@@ -28,7 +28,7 @@
 
 
 
-## Technology Stack
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙" width="32" height="32"> Technology Stack
 <div class="skill-logo">
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
         alt="React" />
@@ -58,4 +58,3 @@
     <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"
         alt="Adobe Photoshop" />
 </div>
-    
