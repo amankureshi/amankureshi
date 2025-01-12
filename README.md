@@ -1,4 +1,4 @@
-<img src="https://i.postimg.cc/QN982Dh3/github-banner.png" alt="github-banner" width="100%">
+<img src="https://i.postimg.cc/CSHqJrgL/Screenshot-2025-01-09-163221.png" alt="github-banner" width="100%">
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.webp" width="3%"> About me
 <img src="https://i.giphy.com/jBOOXxSJfG8kqMxT11.webp" alt="image-ninja" align="right" width="37%">
