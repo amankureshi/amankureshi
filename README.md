@@ -5,9 +5,9 @@
 <ul>
     <li>👨‍💻 I am a Frontend Developer with a strong passion for web development.
     </li>
-    <li>🚀 Currently working on a 100 Projects Challenge to enhance my skills and gain  practical <br>experience  in  creating web applications.</li>
-    <li>🏆 Achieved 1st place in Web Design Competitions during both 1st and 2nd years of college.</li>
-    <li>🎨 Love crafting user-friendly interfaces and learning new tools/technologies to improve my  <br>development skills.</li>
+    <li>🚀 Currently working on a 100 Projects Challenge to enhance my skills and<br> gain practical experience  in  creating web applications.</li>
+    <li>🏆 Achieved 1st place in Web Design Competitions during both 1st and 2nd <br> years of college.</li>
+    <li>🎨 Love crafting user-friendly interfaces and learning new tools/technologies<br> to improve my  development skills.</li>
     <li> 🌐Visit my <a href="https://amankureshi.vercel.app/" target="_blank">Portfolio<a> for more details about me.</li>
 </ul>
 <div>&nbsp;</div><div>&nbsp;</div>
