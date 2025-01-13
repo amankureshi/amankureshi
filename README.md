@@ -14,18 +14,6 @@
         
 ##  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="32" height="32">Socials Links
 
-<a href="https://linkedin.com/in/aman-kureshi">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white"
-        alt="LinkedIn Badge" />
-</a>
-<a href="https://codepen.io/amankureshi786">
-    <img src="https://img.shields.io/badge/CodePen-black?style=for-the-badge&logo=codepen&logoColor=white"
-        alt="Codepen Badge" />
-</a>
-<a href="https://x.com/Kureshi_aman786">
-    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" alt="X Badge" />
-</a>
-
 
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙" width="32" height="32"> Technology Stack
