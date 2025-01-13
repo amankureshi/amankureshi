@@ -12,9 +12,6 @@
 </ul>
 <div>&nbsp;</div><div>&nbsp;</div>
         
-##  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="32" height="32">Socials Links
-
-
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙" width="32" height="32"> Technology Stack
 
