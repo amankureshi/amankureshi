@@ -1,6 +1,6 @@
 <img src="https://i.postimg.cc/CSHqJrgL/Screenshot-2025-01-09-163221.png" alt="github-banner" width="100%">
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.webp" width="3%"> About me
+## <img src="https://s4.ezgif.com/tmp/ezgif-4-1c850ab1fb.webp" width="3%"> About me
 <img src="https://i.giphy.com/jBOOXxSJfG8kqMxT11.webp" alt="image-ninja" align="right" width="25%">
 <ul>
     <li>👨‍💻 I am a Frontend Developer with a strong passion for web development.
@@ -11,7 +11,7 @@
     <li> 🌐Visit my <a href="https://amankureshi.vercel.app/" target="_blank">Portfolio<a> for more details about me.</li>
 </ul>
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙" width="32" height="32"> Technology Stack
+## <img src="https://s3.ezgif.com/tmp/ezgif-3-35f450eb9f.gif" alt="⚙" width="4%"> Technology Stack
 
 <table align="left">
     <tr>
