@@ -1,6 +1,6 @@
 <img src="https://i.postimg.cc/CSHqJrgL/Screenshot-2025-01-09-163221.png" alt="github-banner" width="100%">
 
-## <img src="https://s4.ezgif.com/tmp/ezgif-4-1c850ab1fb.webp" width="3%"> About me
+## <img src="https://s4.ezgif.com/tmp/ezgif-4-149c27dfdb.webp" width="4%"> About me
 <img src="https://i.giphy.com/jBOOXxSJfG8kqMxT11.webp" alt="image-ninja" align="right" width="25%">
 <ul>
     <li>👨‍💻 I am a Frontend Developer with a strong passion for web development.
