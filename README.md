@@ -1,4 +1,5 @@
-<img src="https://i.postimg.cc/CSHqJrgL/Screenshot-2025-01-09-163221.png" alt="github-banner" width="100%">
+
+![Git-banner](https://github.com/user-attachments/assets/94e20e88-2a63-43b6-8128-c1117dcf485f)
 
 ## <img src="https://github.com/user-attachments/assets/6830b94a-18f3-43c5-bbef-38318f31e354" width="3%"> About me
 <img src="https://i.giphy.com/jBOOXxSJfG8kqMxT11.webp" alt="image-ninja" align="right" width="25%">
