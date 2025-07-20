@@ -23,3 +23,14 @@
         <td><img height=40 src="https://skillicons.dev/icons?i=vercel,netlify&theme=dark"></td>
     </tr>
 </table>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/amankureshi786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="amankureshi786" height="30" width="40" /></a>
+<a href="https://dev.to/aman_kureshi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="aman_kureshi_" height="30" width="40" /></a>
+<a href="https://medium.com/@amankureshidev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@amankureshidev" height="30" width="40" /></a>
+</p>
+
+</br>
+<a href="https://git.io/streak-stats"><img align="left" src="https://streak-stats.demolab.com?user=amankureshi&theme=vision-friendly-dark" alt="GitHub Streak" /></a>
+</br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amankureshi&show_icons=true&locale=en&layout=compact" alt="amankureshi" /></p>
