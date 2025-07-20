@@ -36,5 +36,6 @@
 <a href="https://twitter.com/kureshi_aman786" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="kureshi_aman786" height="40" width="40" /></a>
 </p>
 </br>
-<a href="https://git.io/streak-stats"><img align="left" src="https://streak-stats.demolab.com?user=amankureshi&theme=vision-friendly-dark" alt="GitHub Streak" /></a>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amankureshi&show_icons=true&locale=en&layout=compact" alt="amankureshi" /></p>
+<a href="https://git.io/streak-stats"><img align="left" src="https://streak-stats.demolab.com?user=amankureshi&theme=vision-friendly-dark&card_width=460" alt="GitHub Streak" /></a>
+<br>
+<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=amankureshi&show_icons=true&locale=en&layout=compact" alt="amankureshi" /></p>
