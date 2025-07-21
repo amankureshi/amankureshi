@@ -1,7 +1,6 @@
 
 ![GithubBanner](https://github.com/user-attachments/assets/3379d57e-9a53-4116-96ca-b38f95d54bde)
 
-
 ## <img src="https://github.com/user-attachments/assets/6830b94a-18f3-43c5-bbef-38318f31e354" width="3%"> About me
 <img src="https://i.giphy.com/jBOOXxSJfG8kqMxT11.webp" alt="image-ninja" align="right" width="25%">
 <ul>
@@ -38,6 +37,6 @@
 <a href="https://twitter.com/kureshi_aman786" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="kureshi_aman786" height="40" width="40" /></a>
 </p>
 </br>
-<a href="https://git.io/streak-stats"><img align="left" src="https://streak-stats.demolab.com?user=amankureshi&theme=vision-friendly-dark&card_width=460" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img align="left" src="https://github-readme-streak-stats-seven-flame.vercel.app?user=amankureshi&theme=vision-friendly-dark&card_width=460" alt="GitHub Streak" /></a>
 <br>
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=amankureshi&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="amankureshi" /></p>
