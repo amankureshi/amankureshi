@@ -18,8 +18,9 @@
     <tr>
         <td><strong>Frontend Development</strong></td>
         <td><img height=40 src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap"></td>
-        <td><img height=40 src="https://skillicons.dev/icons?i=github,git&theme=dark"></td>
+        <td><img height=40 src="https://skillicons.dev/icons?i=git,github&theme=dark"></td>
         <td><img height=40 src="https://skillicons.dev/icons?i=vercel,netlify&theme=dark"></td>
+        <td><img height=40 src="https://skillicons.dev/icons?i=vscode,sublime&theme=dark"></td>
     </tr>
 </table>
 </br>
