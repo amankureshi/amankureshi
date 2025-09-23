@@ -1,6 +1,4 @@
-
-![GithubBanner](https://github.com/user-attachments/assets/1310e30d-6ef5-4af4-b6ad-dfc9aec49fb7)
-
+![GIt-banner](https://github.com/user-attachments/assets/7032599e-62b9-4b45-a09c-f2f166972392)
 
 ## <img src="https://github.com/user-attachments/assets/6830b94a-18f3-43c5-bbef-38318f31e354" width="3%"> About me
 <img src="https://i.giphy.com/jBOOXxSJfG8kqMxT11.webp" alt="image-ninja" align="right" width="25%">
